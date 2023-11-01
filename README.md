@@ -7,15 +7,18 @@
 
 Term: Fall 2023
 
-+ Team ##
++ Team 2
 + Team members
-	+ team member 1
-	+ team member 2
-	+ team member 3
-	+ team member 4
-	+ team member 5
+	+ Clarence Jiang
+	+ Shefali Shrivastava
+	+ Arnulfo Trevino
+	+ Chencan Zou
+	+ Mansi Singh
+	+ Yucheng Lu
 
-+ Project summary: In this project, we created ...
++ Project summary: In this project, we mainly explored how to help ClimSim machine learning researchers improve the usage of their product through interacting with their quick_start_demo notebook. We mainly focused on the cloud notebook and advance ML model directions, with some testing on Google Colab and Hugging face and ML models like random forest and transformer model.
+
++ Note: Since this project is highly related to the original ClimSim repo, for example a lot of the code depends on the ClimSim repo hierarcy, we will not upload all other dependency codes. Our main code is in the lib folder. The random forest notebook should be placed within the "demo" folder of the ClimSim repo to run. The transformer notebook should be run under ClimSim root layer. 
 	
 
 **Contribution statement**: ([default](doc/a_note_on_contributions.md)) All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
