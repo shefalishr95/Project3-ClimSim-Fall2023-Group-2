@@ -20,10 +20,11 @@ Term: Fall 2023
 
 + Note: Since this project is highly related to the original ClimSim repo, for example a lot of the code depends on the ClimSim repo hierarcy, we will not upload all other dependency codes. Our main code is in the lib folder. The random forest notebook should be placed within the "demo" folder of the ClimSim repo to run. The transformer notebook should be run under ClimSim root layer. 
 
-+ Conclusion: Large data size made it very difficult to explore new ML applications (at free tier); reproducibility difficult for students.
-  	+ Suggestions: i) Reduce data to a smaller (not random) sample. ii) Share big data processing techniques in GitHub ReadMe
-+ Exploring new models; we didn’t have sufficient information for _why_ the baseline models were chosen, so we couldn’t build on their work.
-  	+ Suggestions: Clearer explanations of baseline models (and not just performance and code) in the GitHub repository 
++ Conclusion:
+  	+ Large data size made it very difficult to explore new ML applications (at free tier); reproducibility difficult for students.
+  	  	+ Suggestions: i) Reduce data to a smaller (not random) sample. ii) Share big data processing techniques in GitHub ReadMe
+	+ Exploring new models; we didn’t have sufficient information for _why_ the baseline models were chosen, so we couldn’t build on their work.
+  		+ Suggestions: Clearer explanations of baseline models (and not just performance and code) in the GitHub repository 
  
 	
 
